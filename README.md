@@ -10,6 +10,7 @@ _____________________________________
 - Erstellung eines Prototypes in Axure RP
 
 <b>Hauptansicht: Sicherheitsgurt & Türenkontrolle</b></br>
+<img src="01_AudiCockpit_Hauptansicht.png" width="600" height="400"/>
 </br>
 
 <b>Musikansicht: Radio</b></br>
