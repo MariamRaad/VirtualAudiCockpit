@@ -9,14 +9,21 @@ _____________________________________
 - Erstellung und Bearbeitung von Grafiken
 - Erstellung eines Prototypes in Axure RP
 
-Hauptansicht: Sicherheitsgurt & Türenkontrolle
-<img src="SafeNetKidsPoster_App.png" width="551" height="400"/>
+<b>Hauptansicht: Sicherheitsgurt & Türenkontrolle</b>
+<img src="01_AudiCockpit_Hauptansicht.png" width="551" height="400"/>
+</br>
 
-Musikansicht: Radio
+<b>Musikansicht: Radio</b>
+<img src="02_AudiCockpit-MusikRadio.png" width="551" height="400"/>
+</br>
 
-Musikansicht: USB-Stick
+<b>Musikansicht: USB-Stick</b>
+<img src="02_AudiCockpit-MusikUSB.png" width="551" height="400"/>
+</br>
 
-Navigationsansicht: Tankstellen in der Nähe
+<b>Navigationsansicht: Tankstellen in der Nähe</b>
+<img src="04_AudiCockpit-Navi.png" width="551" height="400"/>
+</br>
 
-Telefonansicht: Kontakte
-
+<b>Telefonansicht: Kontakte</b>
+<img src="05_AudiCockpit-Telefonkontakte.png" width="551" height="400"/>
