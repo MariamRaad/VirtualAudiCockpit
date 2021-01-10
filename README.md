@@ -1,5 +1,5 @@
 # VirtualAudiCockpit
-Verbesserung des Audi Virtual Cockpit User Interfaces</br>
+Verbesserung des Audi Virtual Cockpit User Interfaces</br></br>
 Dieses Projekt wurde im Rahmen meines Bachelor Studiums (in 2017) als Projektarbeit realisiert. Bei der Bearbeitung waren verschiedene Studierende beteiligt.</br>
 _____________________________________
 <b>Tech:</b></br>
@@ -10,6 +10,7 @@ _____________________________________
 - Erstellung eines Prototypes in Axure RP
 
 <b>Hauptansicht: Sicherheitsgurt & Türenkontrolle</b></br>
+<img src="01_AudiCockpit_Hauptansicht.png" width="600" height="400"/>
 </br>
 
 <b>Musikansicht: Radio</b></br>
