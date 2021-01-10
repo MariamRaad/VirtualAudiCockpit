@@ -10,20 +10,20 @@ _____________________________________
 - Erstellung eines Prototypes in Axure RP
 
 <b>Hauptansicht: Sicherheitsgurt & Türenkontrolle</b></br>
-<img src="01_AudiCockpit_Hauptansicht.png" width="551" height="400"/>
+<img src="01_AudiCockpit_Hauptansicht.png" width="600" height="400"/>
 </br>
 
 <b>Musikansicht: Radio</b></br>
-<img src="02_AudiCockpit-MusikRadio.png" width="551" height="400"/>
+<img src="02_AudiCockpit-MusikRadio.png" width="600" height="400"/>
 </br>
 
 <b>Musikansicht: USB-Stick</b></br>
-<img src="02_AudiCockpit-MusikUSB.png" width="551" height="400"/>
+<img src="03_AudiCockpit-MusikUSB.png" width="600" height="400"/>
 </br>
 
 <b>Navigationsansicht: Tankstellen in der Nähe</b></br>
-<img src="04_AudiCockpit-Navi.png" width="551" height="400"/>
+<img src="04_AudiCockpit-Navi.png" width="600" height="400"/>
 </br>
 
 <b>Telefonansicht: Kontakte</b></br>
-<img src="05_AudiCockpit-Telefonkontakte.png" width="551" height="400"/>
+<img src="05_AudiCockpit-Telefonkontakte.png" width="600" height="400"/>
