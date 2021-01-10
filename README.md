@@ -27,3 +27,6 @@ _____________________________________
 
 <b>Telefonansicht: Kontakte</b></br>
 <img src="05_AudiCockpit-Telefonkontakte.png" width="600" height="400"/>
+
+<b>Telefonansicht: Anrufliste</b></br>
+<img src="06_AudiCockpit-Anrufliste.png" width="600" height="400"/>
