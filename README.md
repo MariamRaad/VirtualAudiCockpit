@@ -1,32 +1,35 @@
-# VirtualAudiCockpit
-Verbesserung des Audi Virtual Cockpit User Interfaces</br></br>
-Dieses Projekt wurde im Rahmen meines Bachelor Studiums (in 2017) als Projektarbeit realisiert. Bei der Bearbeitung waren verschiedene Studierende beteiligt.</br>
-_____________________________________
-<b>Tech:</b></br>
-Adobe Illustrator/Photoshop, Axure RP
-_____________________________________
-<b>Meine Aufgaben:</b></br>
-- Erstellung und Bearbeitung von Grafiken
-- Erstellung eines Prototypes in Axure RP
+# Virtual Audi Cockpit
 
-<b>Hauptansicht: Sicherheitsgurt & Türenkontrolle</b></br>
+UI concept for improving the Virtual Audi Cockpit user interface.
+
+This project was developed in 2017 during my Bachelor's studies as a collaborative project with several other students.
+
+## 🛠 Tech Stack
+Adobe Illustrator & Photoshop, Axure RP
+
+## My Tasks
+- Creating and editing graphics
+- Designing and implementing an interactive prototype in Axure RP
+
+## 📸 Showcase
+<b>Main View - Seat Belt & Door Status</b></br>
 <img src="01_AudiCockpit-Hauptansicht.png" width="625" height="400"/>
 </br>
 
-<b>Musikansicht: Radio</b></br>
+<b>Music View - Radio</b></br>
 <img src="02_AudiCockpit-MusikRadio.png" width="625" height="400"/>
 </br>
 
-<b>Musikansicht: USB-Stick</b></br>
+<b>Music View - USB Drive</b></br>
 <img src="03_AudiCockpit-MusikUSB.png" width="625" height="400"/>
 </br>
 
-<b>Navigationsansicht: Tankstellen in der Nähe</b></br>
+<b>Navigation View - Nearby Gas Stations</b></br>
 <img src="04_AudiCockpit-Navi.png" width="625" height="400"/>
 </br>
 
-<b>Telefonansicht: Kontakte</b></br>
+<b>Phone View - Contacts</b></br>
 <img src="05_AudiCockpit-Telefonkontakte.png" width="625" height="400"/>
 
-<b>Telefonansicht: Anrufliste</b></br>
+<b>Phone View - Call History</b></br>
 <img src="06_AudiCockpit-Anrufliste.png" width="625" height="400"/>
